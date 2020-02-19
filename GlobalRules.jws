@@ -24,5 +24,6 @@
    </list>
    <list n="listOfChildren">
       <hash><url n="URL" path="git.jpr"/></hash>
+      <hash><url n="URL" path="Git5_OSBProject/Git5_OSBProject.jpr"/></hash>
    </list>
 </jws:workspace>
